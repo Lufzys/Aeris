@@ -51,7 +51,6 @@
 - [ ] Audio file format support:
   - [ ] WAV files
   - [ ] MP3 files
-  - [ ] OGG files
 
 ### Sprite & Animation
 - [ ] Sprite batching
@@ -71,8 +70,6 @@
 - [X] Scene class implementation
 - [X] Scene loading/unloading
 - [ ] Scene transitions
-- [ ] Persistent objects across scenes
-- [ ] Scene serialization
 
 ### UI Framework
 - [ ] UI canvas system
