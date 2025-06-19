@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aeris.Engine", "Aeris.Engine\Aeris.Engine.csproj", "{3ACFBBC0-19F3-44ED-AF01-3E79075A5ABC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aeris.Game", "Aeris.Game\Aeris.Game.csproj", "{FBB47C11-764C-48BC-AE9B-F383B91991F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3ACFBBC0-19F3-44ED-AF01-3E79075A5ABC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ACFBBC0-19F3-44ED-AF01-3E79075A5ABC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ACFBBC0-19F3-44ED-AF01-3E79075A5ABC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ACFBBC0-19F3-44ED-AF01-3E79075A5ABC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBB47C11-764C-48BC-AE9B-F383B91991F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBB47C11-764C-48BC-AE9B-F383B91991F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBB47C11-764C-48BC-AE9B-F383B91991F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBB47C11-764C-48BC-AE9B-F383B91991F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
