@@ -1,5 +1,3 @@
- Aeris - 2D Game Engine
-
 > ⚠️ **Work in Progress** - Aeris is currently under active development and not yet ready for production use.
 
 A lightweight, cross-platform 2D game engine built with C# that aims to provide essential game development tools and systems for creating interactive 2D games and applications.
